@@ -12,3 +12,9 @@ Este proyecto es un formulario de registro sencillo que valida los campos de **N
 - **Nombre:** Solo letras y espacios, hasta 40 caracteres.
 - **Correo:** Debe tener un formato válido (`usuario@dominio.com`).
 - **Contraseña:** Entre 4 y 12 caracteres.
+
+## Uso
+1. Clona este repositorio o descarga los archivos.
+2. Abre el archivo `index.html` en tu navegador.
+3. Completa el formulario con los datos requeridos.
+4. Verás mensajes de validación en tiempo real y un mensaje de éxito al enviar.
